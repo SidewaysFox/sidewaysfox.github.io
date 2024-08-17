@@ -1,0 +1,66 @@
+- Migrate stuff from slides
+- Change high Celsius measurements to Kelvin at the same time
+- Go through and edit "Related pages" sections
+- Slides planets todo list
+- Finish Matchik Technologies and related
+- Add flora
+- Dragons
+- KunaiTech
+- Astral territory article
+- Institutions of education (places)
+- Star Fleet article
+- Air Force article
+- Navy article
+- Army article
+- Defence Force article
+- Kolban Council article
+- Add "Political" section to races articles
+- Toprian Empire
+- ExoAtmospheric Apparatus
+- Kolban Alpha Law Enforcement Force (K-ALEF)
+- Kolban Beta Aggressor Combat Team (K-BACT)
+- Kolban Gamma Riot Injection Team (K-GRIT)
+- Kolban Delta Assault and Recon Team (K-DART)
+- Kolban Epsilon Undercover Reinforcement Organisation (K-EURO)
+- Kolban Lambda Investigative Engagement Unit (K-LIEU)
+- Kolban Omega Remote Control Aggressors (K-ORCA)
+- Company making Linc Assistive Gear (LAG)
+- Linc Assistive Survival Equipment article
+- Linc-Human Coalition article
+- Plavv Alliance article
+- Imuz (system)
+- Nessenza (system)
+- Morvon (system)
+- Dablo (system)
+- Inloreen Massacre
+- KD-117, KD-390, KD-410, KD-418 and KD-551 single star systems of interest in Keffla Void
+- KG-256 and KG-455 also star systems of interest in Keffla Void
+- Articles for individual cities
+- Privii god/moon article
+- The Humanoid Group
+- Project Ultimatum
+- Mike's Auto Repair company
+- Vehicle loadout/ordnance tables
+- Tekio Tree (originating from Tryas) article
+- Micronoids article
+- Long Range Transmission Ports (LRTP)
+- Wormhole Drives
+- Linc previously had massacred Dottian planets - which is why the Dottians were so aggressive in the Cosmic Wars
+- Planet so cold that oxygen is liquified
+- Black holes
+- Supermassive black hole at centre of galaxy
+- Ship named Kindled Flame - attacked by pirates, crew forced to eject and crash land on unknown barren planet with limited life support - logs made by member recovered by research teams
+- SC-308 system used for planet destroyer type weapon (development never continued after first test)
+- Metrique C used as a testing ground for Topman-Fox collaborative projects (huge bomb?)
+- Ursuff-Class Supercannon
+- Articles for individual languages
+- Race hit by disease
+- Religion in detail
+
+
+### Passive tasks:
+
+- Add stuff
+- Add languages
+- Add currencies
+- Add interesting specific locations

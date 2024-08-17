@@ -1,0 +1,1 @@
+Helpful resources for editing the Sci-Fi World vault and its notes. These resources provide various instructions and advice on writing and editing quality articles.

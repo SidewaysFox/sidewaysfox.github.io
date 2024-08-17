@@ -1,0 +1,1 @@
+Resources refers to the various unique materials used by the intelligent races in the galaxy. The collection and use of resources are major components to survival in an unknown galaxy. This makes it very important for civilisations to allow time to focus on their stores.
